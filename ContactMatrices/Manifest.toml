@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.4"
+manifest_format = "2.0"
+project_hash = "5537cef2689bcd56c93eaf2d429179d099abc9b2"
+
+[[deps.ContactMatrices]]
+path = "."
+uuid = "40bbcaec-5de9-46d5-8cf1-611fd805a6a6"
+version = "0.1.0"
